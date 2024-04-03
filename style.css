@@ -1,0 +1,63 @@
+.head-line{
+    margin-top: 1.5em;
+    display: flex;
+    justify-content: center;
+}
+
+.head-line svg{
+    width: 550px;
+}
+
+.menus{
+    margin-top: 1em;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap; /*메뉴를 화면크기에 맞춤*/
+    border-top: 1px solid #ebebeb;
+    border-bottom: 4px double black;
+}
+
+.menus button{
+    border: none;
+    background: none;
+    margin: 6px;
+}
+
+.menus button:hover{
+    background-color: coral;
+}
+
+.news-img-size{
+    max-width: 100%; /*부모의 100%*/
+    max-height: 250px;
+    align-items: center;
+}
+
+.news-contents{
+    border-bottom: 2px solid;
+    padding: 1em;
+}
+
+.btn{
+    max-width: 100%;
+    max-height: 70px;
+    max-width: 200px;
+    font-size: 13px;
+    border-radius: 4px;
+}
+
+.search-box{
+    margin-top: 1em;
+    display: flex;
+    justify-content: center;
+}
+
+.search-box input{
+    width: 300px;
+    margin-right: 5px;
+}
+
+.pagination{
+    display: flex;
+    justify-content: center;
+}
