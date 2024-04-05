@@ -16,7 +16,7 @@ API를 활용한 News-Times
 
 
 
-<H2>History</H2>
+<H3>History</H3>
 
 
 1) API 불러오기
