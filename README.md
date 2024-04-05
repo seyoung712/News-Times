@@ -23,7 +23,7 @@ API를 활용한 News-Times
 
 2) URL data json 가져오기
 
-2-1) URL data .json -> articles 추출
+&nbsp;&nbsp;&nbsp;2-1) URL data .json -> articles 추출
 
 3) Main CSS
 
